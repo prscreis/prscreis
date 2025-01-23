@@ -1,9 +1,9 @@
 ### :smiley: Hello, I'm Paulo! :wave:
 
-- 💻 Currently, I work mainly developing user interfaces using React (Next.js, Chakra UI, Typescript), eventually writing some Vyper/Python code.
-- 💡 I have already worked with many technologies: HTML5, CSS3, Javascript, jQuery, Bootstrap, Java, C#, VB, .NET, PHP, React.js, React Native, Next.js, Laravel, MySQL, SQL Server, PostgreSQL, Prisma, Jest, GraphQL.
-- 📚 At the moment, I am taking a college course on Artificial Intelligence and Machine Learning.
-- 🧠 My current interests are Artificial Intelligence and web3 development.
+💻 Currently, I work mainly developing user interfaces using React (Next.js, Chakra UI, Typescript), eventually writing some Vyper/Python code.<br />
+💡 I have already worked with many technologies: HTML5, CSS3, Javascript, jQuery, Bootstrap, Java, C#, VB, .NET, PHP, React.js, React Native, Next.js, Laravel, MySQL, SQL Server, PostgreSQL, Prisma, Jest, GraphQL.<br />
+📚 At the moment, I am taking a college course on Artificial Intelligence and Machine Learning.<br />
+🧠 My current interests are Artificial Intelligence and web3 development.
 
 <!--
 :bulb: Minhas habilidades em desenvolvimento abrangem HTML5, CSS3, Javascript, jQuery, Bootstrap, Java, C#, .NET, PHP, Laravel, MySQL e SQL Server. Meus interesses são: desenvolvimento web (full stack), sistemas de Internet das Coisas e desenvolvimento de aplicativos móveis utilizando tecnologias híbridas. No momento estou aprendendo a utilizar as bibliotecas ReactJS e React Native. :rocket:
@@ -14,7 +14,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
